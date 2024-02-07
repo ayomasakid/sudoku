@@ -1,0 +1,6 @@
+streamlit
+opencv
+tensorflow
+numpy
+PIL
+glob

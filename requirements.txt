@@ -2,4 +2,4 @@ streamlit
 opencv-python
 tensorflow
 numpy
-glob
+glob2

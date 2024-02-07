@@ -1,6 +1,5 @@
 streamlit
-opencv
+OpenCV
 tensorflow
 numpy
-PIL
 glob
